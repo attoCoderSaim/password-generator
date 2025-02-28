@@ -30,9 +30,6 @@ A simple React-based password generator with customizable options for length, nu
 - React.js  
 - Tailwind CSS  
 
-## Screenshot 📸  
-![Password Generator UI](https://your-image-url.com/password-generator.png)  
-
 ## License 📜  
 This project is open-source. Feel free to modify and use it!  
 
